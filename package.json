@@ -1,5 +1,5 @@
 {
-  "name": "Prose",
+  "name": "proses",
   "version": "1.0.7",
   "description": "A collection of Utilities. Make writing node easier, prettier and less error prone. Writes and reads more like Prose",
   "license": "MIT",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seandmurray/Prose"
+    "url": "https://github.com/seandmurray/proses"
   },
   "dependencies": {
     "prose_array": "*",
