@@ -1,9 +1,9 @@
 const assert = require('assert');
-const { isit_util } = require('prose_isit');
-const { number_util } = require('prose_number');
-const { string_util } = require('prose_isit');
-const { file_util } = require('prose_file');
-const { array_util } = require('prose_array');
-const { object_util } = require('prose_object');
-const { os_util } = require('prose_os');
-const { promise_util } = require('prose_promise');
+const { isit_util } = require('../index');
+const { number_util } = require('../index');
+const { string_util } = require('../index');
+const { file_util } = require('../index');
+const { array_util } = require('../index');
+const { object_util } = require('../index');
+const { os_util } = require('../index');
+const { promise_util } = require('../index');

@@ -1,7 +1,7 @@
 {
-  "name": "prose",
+  "name": "Prose",
   "version": "1.0.7",
-  "description": "A collection of Utilities. Make writing node easier, prettier and less error prone. Writes and reads more like prose",
+  "description": "A collection of Utilities. Make writing node easier, prettier and less error prone. Writes and reads more like Prose",
   "license": "MIT",
   "main": "index.js",
   "keywords": [
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seandmurray/prose"
+    "url": "https://github.com/seandmurray/Prose"
   },
   "dependencies": {
     "prose_array": "*",
