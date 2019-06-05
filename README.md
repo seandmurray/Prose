@@ -5,7 +5,7 @@ SEE MIT LICENSE FILE
 
 Make writing node easier, prettier and less error prone. Writes and reads more like prose
 
-This is a wrapper module for the various prose modules. If your using most
+This is a wrapper module for the various prose modules. If you're using most
 the of the prose modules just include this and it will get all the others.
 
 ## Usage
