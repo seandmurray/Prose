@@ -1,6 +1,6 @@
 {
   "name": "proses",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "description": "A collection of Utilities. Make writing node easier, prettier and less error prone. Writes and reads more like Prose",
   "license": "MIT",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "Sean D. Murray"
   ],
   "scripts": {
-    "test": "node test/index.js; node node_modules/prose_array/test; node node_modules/prose_file/test; node node_modules/prose_isit/test; node node_modules/prose_number/test; node node_modules/prose_object/test; node node_modules/prose_promise/test; node node_modules/prose_string/test"
+    "test": "node test/index.js; node node_modules/prose_array/test; node node_modules/prose_file/test; node node_modules/prose_isit/test; node node_modules/prose_number/test; node node_modules/prose_object/test; node node_modules/prose_promise/test; node node_modules/prose_string/test; node node_modules/prose_matrix2d/test "
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
     "prose_array": "*",
     "prose_file": "*",
     "prose_isit": "*",
+    "prose_matrix2d": "*",
     "prose_number": "*",
     "prose_object": "*",
     "prose_os": "*",

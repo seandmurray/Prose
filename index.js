@@ -8,4 +8,5 @@ exports.number = require('prose_number');
 exports.object = require('prose_object');
 exports.os = require('prose_os');
 exports.promise = require('prose_promise');
+exports.string = require('prose_matrix2d');
 exports.string = require('prose_string');
