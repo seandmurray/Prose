@@ -1,6 +1,6 @@
 {
   "name": "proses",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A collection of Utilities. Make writing node easier, prettier and less error prone. Writes and reads more like Prose",
   "license": "MIT",
   "main": "index.js",
